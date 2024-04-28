@@ -780,7 +780,7 @@ input[type="checkbox"]:checked::after{
   }
    .mobile-nav{
     background-color: #181920;
-    width: 180px;
+    width: 220px;
     height: 190px;
     /* margin-right: 250px; */
     padding: 9px;
