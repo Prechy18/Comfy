@@ -807,7 +807,7 @@ input[type="checkbox"]:checked::after{
    }
    .container{
     margin: 0 auto;
-    width: 80%;
+    width: 60%;
    }
    .img{
     display: none;
@@ -911,6 +911,9 @@ input[type="checkbox"]:checked::after{
     margin: auto;
     margin-left: 8px;
 }
+.comfy div{
+    margin-top: 22px;
+}
 .coffee{
     width: 90%;
     height: 550px;
@@ -925,6 +928,9 @@ input[type="checkbox"]:checked::after{
     width: 100%;
     margin-left: 0px;
 } 
+.coffee div{
+    margin-top: 20px;
+}
 .light{
     width: 90%;
     height: 550px;
@@ -940,7 +946,7 @@ input[type="checkbox"]:checked::after{
     margin-left: 0.1px;
 }
 .light div{
-    margin: auto;
+    margin-top: 20px;
 }
 .love{
     width: 100%;
