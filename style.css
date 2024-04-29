@@ -945,7 +945,7 @@ input[type="checkbox"]:checked::after{
    }
    .container{
     margin: 0 auto;
-    /* width: 95%; */
+    width: 90%;
    }
    .img{
     display: none;
@@ -1126,5 +1126,30 @@ input[type="checkbox"]:checked::after{
 .empty h2{
     font-size:33px ;
     text-align: center;
+}
+.log-box{
+    width: 80%;
+    margin: auto;
+}
+.log-p{
+    width: 100%;
+}
+.email{
+    width: 100%;
+}
+.password{
+    width: 100%;
+}
+.login{
+    width: 100%;
+}
+.user{
+    width: 100%;
+}
+.username{
+    width: 100%;
+}
+.not{
+    width: 100%;
 }
 }
