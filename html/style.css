@@ -980,7 +980,7 @@ input[type="checkbox"]:checked::after{
    }
    .container{
     margin: 0 auto;
-    width: 75%;
+    width: 85%;
    }
    .img{
     display: none;
@@ -988,6 +988,7 @@ input[type="checkbox"]:checked::after{
    .imga{
     display: flex;
     gap: 25px;
+    margin-left: -100px;
     /* margin-left: -120px; */
 }
 .car{
